@@ -1,0 +1,11 @@
+Country,Country_Code,Year,Beds_per_1000,Health_Exp_GDP,Health_Exp_Per_Capita_PPP,Infant_Mortality,Life_Expectancy,Physicians_per_1000
+Bahrain,BHR,2023,,,,7.2,81.284,
+"Egypt, Arab Rep.",EGY,2023,,,,16.1,71.633,
+Jordan,JOR,2023,,,,12.2,77.814,
+Kuwait,KWT,2023,,,,7.6,83.18780488,
+Morocco,MAR,2023,,,,15.5,75.313,
+Oman,OMN,2023,,,,8.4,80.031,
+Qatar,QAT,2023,,,,4.9,82.368,
+Saudi Arabia,SAU,2023,,,,4.9,78.732,
+Tunisia,TUN,2023,,,,10.6,76.508,
+United Arab Emirates,ARE,2023,,,,4.0,82.909,
