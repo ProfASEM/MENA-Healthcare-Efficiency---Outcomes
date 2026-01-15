@@ -64,7 +64,7 @@ Rather than measuring spending alone, the analysis emphasizes **efficiency, benc
 ![Executive Dashboard](images/Dashboard.png)
 
 ### Mobile View
-![Mobile Dashboard](images/Dashboard-mobile version.png)
+![Mobile Dashboard](images/Dashboard-mobile-version.png)
 
 ---
 
