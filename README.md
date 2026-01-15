@@ -84,3 +84,11 @@ Under-resourced
 #### Power BI: DAX, Executive dashboard design
 
 **Data Source**: World Bank Open Data
+
+
+
+## 👤 Author
+### Asem Haij
+#### Data Analyst | Financial Analysis | Power BI
+#### GitHub: https://github.com/ProfASEM
+#### LinkedIn: www.linkedin.com/in/asem-haij-9797562a8
